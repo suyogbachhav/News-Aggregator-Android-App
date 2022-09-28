@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_beige">#d5b9b2</color>
+    <color name="beige">#ece2d0</color>
+    <color name="lilac">#cebebe</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    ////
+    <color name="purple700">#3700B3</color>
+    <color name="purple500">#6200EE</color>
+    <color name="purple200">#BB86FC</color>
+
+    <color name="green1">#4E944F</color>
+    <color name="green2">#83BD75</color>
+    <color name="green3">#B4E197</color>
+    <color name="green4">#E9EFC0</color>
+
+    ////
+
+</resources>
